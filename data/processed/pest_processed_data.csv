@@ -1,0 +1,9 @@
+date,region,pest_count,temperature,rainfall,humidity
+2022-01-01,Region_A,12,28,5,65
+2022-01-08,Region_A,18,30,12,70
+2022-01-15,Region_A,25,31,20,75
+2022-01-22,Region_A,40,33,2,60
+2022-01-01,Region_B,5,26,10,68
+2022-01-08,Region_B,9,27,15,72
+2022-01-15,Region_B,14,29,18,74
+2022-01-22,Region_B,20,30,4,63
